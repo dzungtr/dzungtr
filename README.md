@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dzungtr
-- 👀 I’m interested in Cloud Native software
-- 🌱 I’m currently exploring the Cloud Native landscape
+- 👀 I’m interested in building application components following Platform engineering practice
+- 🌱 I’m currently exploring the Cloud Native foundation landscape
 - 💞️ I’m looking to collaborate on building a new open source solution for cloud environment
 - 📫 How to reach me: send me an email via dzung.tr@outlook.com
 - 😄 Pronouns: Dzung or can call me Tony
